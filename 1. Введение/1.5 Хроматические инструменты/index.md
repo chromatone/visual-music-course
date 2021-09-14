@@ -5,10 +5,13 @@
 2.  Подходят:
     1.  Клавишные: пианино, синтезаторы,
     2.  midi-клавиатура и девайс (телефон, планшет, компьютер)
-        1.  iOS - [Garage band](https://apps.apple.com/ru/app/garageband/id408709785?ls=1&v0=www-ru-ios-garageband-app-garageband), [Synth One](https://apps.apple.com/us/app/audiokit-synth-one-synthesizer/id1371050497)
         2.  Web - Google Chrome + [MIDI.city](https://midi.city/)
     3.  Гитара или укулеле
     4.  Калимба, ксилофон, металлофон
+
+### Наклейки
+Клавиши **3:42** ![](./keys.png) **6:25** ![](./keys.png)
+
 3.  Не подходят
     1.  Духовые
     2.  Безладовые
