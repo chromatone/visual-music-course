@@ -1,5 +1,7 @@
 [https://en.wikipedia.org/wiki/Sight-reading](https://en.wikipedia.org/wiki/Sight-reading) - Исполнение А прима — с листа.
 
+![](./Michelangelo_Caravaggio.jpg)
+
 1.  Нотный стан
 2.  Скрипичный ключ
 3.  Басовый ключ
