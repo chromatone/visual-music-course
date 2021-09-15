@@ -1,2 +1,48 @@
-<?xml version="1.0" standalone="no"?>
-<svg version="1.1" baseProfile="full" viewBox="0 0 100 70" xmlns="http://www.w3.org/2000/svg" class="my-16" id="sound-vibrations"><g class="cursor-pointer" transform="translate(11.89105807053849,0)"><circle cx="0" cy="35" r="4.5" fill="currentColor"/><polygon fill="gray" points="-2,32 3,35 -2,38"/></g><circle cx="11.89105807053849" r="4" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="8.543486072085003" r="8" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="6.535026261898441" r="12" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="7.712247326977359" r="16" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="10.992817649121292" r="20" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="13.360596003276282" r="24" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="12.638657890201566" r="28" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="9.490749881669853" r="32" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="6.8110440834036305" r="36" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="7.063249648232416" r="40" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="10.015489942958178" r="44" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="12.953488855563723" r="48" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="13.176063735075687" r="52" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="10.478580263727418" r="56" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="7.341092304994126" r="60" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="6.6481918188681535" r="64" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="9.036928316819411" r="68" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="12.31110847885428" r="72" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="13.460466163653342" r="76" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="11.428287216346872" r="80" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="8.08294758921506" r="84" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="6.5001371076187695" r="88" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="8.135084428833109" r="92" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><circle cx="11.48462652567949" r="96" cy="35" stroke-width="0.5" stroke-linecap="round" stroke="currentColor" fill="none"/><rect x="0" y="0" width="100" height="70" stroke="currentColor" fill="none" stroke-width="2" rx="2"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sound-vibrations" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 100 70" style="enable-background:new 0 0 100 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;}
+</style>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M2,0h96c1.1,0,2,0.9,2,2v66c0,1.1-0.9,2-2,2H2c-1.1,0-2-0.9-2-2V2C0,0.9,0.9,0,2,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<g transform="translate(11.89105807053849,0)">
+			<circle cx="0" cy="35" r="4.5"/>
+		</g>
+		<circle class="st1" cx="11.9" cy="35" r="4"/>
+		<circle class="st1" cx="8.5" cy="35" r="8"/>
+		<circle class="st1" cx="6.5" cy="35" r="12"/>
+		<circle class="st1" cx="7.7" cy="35" r="16"/>
+		<circle class="st1" cx="11" cy="35" r="20"/>
+		<circle class="st1" cx="13.4" cy="35" r="24"/>
+		<circle class="st1" cx="12.6" cy="35" r="28"/>
+		<circle class="st1" cx="9.5" cy="35" r="32"/>
+		<circle class="st1" cx="6.8" cy="35" r="36"/>
+		<circle class="st1" cx="7.1" cy="35" r="40"/>
+		<circle class="st1" cx="10" cy="35" r="44"/>
+		<circle class="st1" cx="13" cy="35" r="48"/>
+		<circle class="st1" cx="13.2" cy="35" r="52"/>
+		<circle class="st1" cx="10.5" cy="35" r="56"/>
+		<circle class="st1" cx="7.3" cy="35" r="60"/>
+		<circle class="st1" cx="6.6" cy="35" r="64"/>
+		<circle class="st1" cx="9" cy="35" r="68"/>
+		<circle class="st1" cx="12.3" cy="35" r="72"/>
+		<circle class="st1" cx="13.5" cy="35" r="76"/>
+		<circle class="st1" cx="11.4" cy="35" r="80"/>
+		<circle class="st1" cx="8.1" cy="35" r="84"/>
+		<circle class="st1" cx="6.5" cy="35" r="88"/>
+		<circle class="st1" cx="8.1" cy="35" r="92"/>
+		<circle class="st1" cx="11.5" cy="35" r="96"/>
+		<path class="st2" d="M2,0h96c1.1,0,2,0.9,2,2v66c0,1.1-0.9,2-2,2H2c-1.1,0-2-0.9-2-2V2C0,0.9,0.9,0,2,0z"/>
+	</g>
+</g>
+</svg>
