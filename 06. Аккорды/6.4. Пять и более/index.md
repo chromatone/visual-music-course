@@ -4,4 +4,5 @@
 4.  Обращение сложных аккордов
 5.  Открытая и закрытая форма
 6.  Кластеры
-7.  Неаккордовые звуки [eng](https://en.wikipedia.org/wiki/Nonchord_tone)
+7.  So what https://en.wikipedia.org/wiki/So_What_chord
+8.  Неаккордовые звуки [eng](https://en.wikipedia.org/wiki/Nonchord_tone)
