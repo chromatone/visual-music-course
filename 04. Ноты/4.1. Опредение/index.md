@@ -19,12 +19,18 @@
 sa re ga ma pa dha ni
  ![](./India-Bhat_notation1.jpg)
 
+## Китай
+ ![](./gongche.jpg)
+ ![](./Myoan-fingering_chart.jpg)
+
 ## Корея - Джонгганбо
  ![](./Korea-Jeongganbo.jpg)
  [](./koreanpu1.pdf)
 
+
 ## Япония - Кункунши
  ![](./Japan-Kunkunshi.jpg)  
+ ![](./Kunkunshi_for_Tinsagu_nu_Hana.png)
 
 ## Древняя Греция 
  ![](./Greece-Delphichymn.jpg)
